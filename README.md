@@ -1,4 +1,4 @@
- ✨  Project name ✨
+ ✨  Beauty Style ✨
 
 This is a web based application developed for health related based website in india
 
@@ -25,15 +25,13 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+### Home -
 ![Beauty Style a Beauty Category Bootstrap Responsive Website Template _ Home __ Subhashl - Google Chrome 30-12-2022 19_40_10](https://user-images.githubusercontent.com/119313306/210080603-f9fd7e0f-d0ca-4860-949a-f3102908962d.png)
 
 ### About Us -
-
 ![Beauty Style a Beauty Category Bootstrap Responsive Website Template _ Home __ Subhashl - Google Chrome 30-12-2022 19_40_19](https://user-images.githubusercontent.com/119313306/210080638-b549035e-d5e6-4c27-9b4d-e363a469bdd3.png)
 
 ### Services -
-
-
 ![Beauty Style a Beauty Category Bootstrap Responsive Website Template _ Home __ Subhashl - Google Chrome 30-12-2022 19_40_45](https://user-images.githubusercontent.com/119313306/210080676-d2dc92de-8f0e-4d13-a36b-298cda2f8e33.png)
 
 ### Register -
@@ -49,13 +47,9 @@ This is a web based application developed for health related based website in in
 
 
 ### Contact us -
-
-
 ![Beauty Style a Beauty Category Bootstrap Responsive Website Template _ Home __ Subhashl - Google Chrome 30-12-2022 19_41_03](https://user-images.githubusercontent.com/119313306/210080694-40cc11f8-0ca2-4079-b7f4-d6c5026b0c6a.png)
 
 ### health bot
-
-
 ![Beauty Style a Beauty Category Bootstrap Responsive Website Template _ Home __ Subhashl - Google Chrome 30-12-2022 19_41_32](https://user-images.githubusercontent.com/119313306/210086068-6b589b19-f097-4328-802b-b632ce71cf01.png)
 
 ## Tech Stack 💻
